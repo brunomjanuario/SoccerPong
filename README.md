@@ -9,7 +9,7 @@ The Fab Five:
 - [Bruno Sá](https://github.com/brunodesal)
 - Emanuel Neves
 - João Amaral
-- [Ricardo Rodrigues] (https://github.com/Gantart);
+- [Ricardo Rodrigues](https://github.com/Gantart)
 
 # How does it work
 
