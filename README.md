@@ -5,7 +5,7 @@
 Looney Tunes Soccer Pong is a game developed by 5 students of <Academia de Código_>, during the bootcamp's 5th week.
 
 The Fab Five:
-- Bruno Januário
+- [Bruno Januário](https://github.com/brunomjanuario)
 - [Bruno Sá](https://github.com/brunodesal)
 - Emanuel Neves
 - João Amaral
